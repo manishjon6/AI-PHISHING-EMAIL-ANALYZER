@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./images/banner.png)
 
 # 🛡️ AI Phishing Email Analyzer 2026 - SOC Edition
 
@@ -11,6 +11,8 @@
 **No OpenRouter needed. No credit card. Works offline fallback.**
 
 ### 🎯 Live Demo Output
+
+![Execution](./images/execution.png)
 
 === AI PHISHING EMAIL ANALYZER 2026 - Groq Free Edition ===
 
@@ -27,6 +29,7 @@ REASONS:
  - Suspicious URL (dsgo.to short link)
  - Embedded image from unrelated domain (createsend1.com)
  - Urgency language and account suspension claim
+
 
 ### 🏗️ Architecture
 
