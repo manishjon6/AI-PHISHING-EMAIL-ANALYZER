@@ -1,4 +1,4 @@
-![Banner](./images/banner.png)
+!\[Banner](images/banner.png)
 
 # 🛡️ AI Phishing Email Analyzer 2026 - SOC Edition
 
@@ -12,7 +12,7 @@
 
 ### 🎯 Live Demo Output
 
-![Execution](./images/execution.png)
+!\[Execution](images/execution.png)
 
 === AI PHISHING EMAIL ANALYZER 2026 - Groq Free Edition ===
 
